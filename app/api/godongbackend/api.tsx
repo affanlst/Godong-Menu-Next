@@ -1,4 +1,4 @@
-const api_url = "http://192.168.99.12:8001/api";
+const api_url = "https://godong-menu-laravel-production.up.railway.app/api";
 
 
 export const API_ENDPOINTS = {
